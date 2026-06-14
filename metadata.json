@@ -1,0 +1,10 @@
+{
+  "name": "Prestige Luxury Hotel Management System",
+  "description": "Premium luxury booking, hotel management, and admin SaaS platform features a modern 3D Light Theme, AI room recommendations, live chat, and a full enterprise Angular & ASP.NET Core (.NET 9) source code explorer. Engineered by Muhammad Waiz.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
